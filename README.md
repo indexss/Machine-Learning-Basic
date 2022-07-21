@@ -1,6 +1,7 @@
 # Machine-Learning-Basic
 my machine learning self learning-path
 ### 本仓库用于存储本人学习「机器学习」过程中的笔记以及项目
+#### 参考资料： Stanford [CS229](https://www.youtube.com/watch?v=jGwO_UgTS7I&list=PLoROMvodv4rMiGQp3WXShtMGgzqpfVfbU) by Andrew Ng
 
 ---------------------
 
